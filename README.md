@@ -19,9 +19,9 @@ The Face Recognition System (FRS) is a project developed to automate attendance 
 - numpy
 
 ## Setup Instructions
-1. Clone the repository: `git clone https://github.com/your-username/frs.git`
+1. Clone the repository: `git clone https://github.com/Chakriixx/Face-Recognition-For-Student-Attendence`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run the application: `python app.py`
+3. Run the application: `python manage.py runserver`
 
 ## Usage
 1. Access the application through the web interface.
