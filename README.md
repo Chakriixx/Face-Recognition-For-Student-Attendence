@@ -16,7 +16,7 @@ The Face Recognition System (FRS) is a project developed to automate attendance 
 - OpenCV
 - Pandas
 - face_recognition
-- 
+- numpy
 
 ## Setup Instructions
 1. Clone the repository: `git clone https://github.com/your-username/frs.git`
@@ -29,5 +29,6 @@ The Face Recognition System (FRS) is a project developed to automate attendance 
 3. Perform the desired actions, such as enrolling faces, marking attendance, or generating reports.
 
 ## Contributors
-- John Doe (@john_doe)
-- Jane Smith (@jane_smith)
+- Chakravarthi
+- Satyam
+- Bhaskar
