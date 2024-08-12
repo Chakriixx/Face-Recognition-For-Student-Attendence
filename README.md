@@ -30,5 +30,4 @@ The Face Recognition System (FRS) is a project developed to automate attendance 
 
 ## Contributors
 - Chakravarthi
-- Satyam
-- Bhaskar
+- Charan 
